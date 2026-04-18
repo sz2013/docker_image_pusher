@@ -1,1 +1,1 @@
-weaviate
+cr.weaviate.io/semitechnologies/weaviate:1.36.0
